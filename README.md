@@ -8,6 +8,7 @@ sudo apt-get install librealsense2-utils
 sudo apt-get install librealsense2-dev  
 sudo apt-get install librealsense2-dbg  
 
+
 # install PCL dependencies:
 * install [CUDA 9.0](https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604)
 * install [OpenCV 3.4.1](https://github.com/opencv/opencv/archive/3.4.1.zip)
@@ -16,6 +17,7 @@ sudo apt-get install librealsense2-dbg
 * `sudo apt install libvtk5-*`
 * `sudo apt install libboost-all-dev`
 * `sudo apt install libqhull-dev`
+
 
 # build and run
 mkdir build  
